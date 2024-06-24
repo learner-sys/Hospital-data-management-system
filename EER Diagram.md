@@ -1,4 +1,5 @@
 # The EER Diagram
+![image](https://github.com/learner-sys/Hospital-data-management-system/assets/143533864/141f0edf-13ad-418c-8dc2-0c52abd9f9ba)
 
 # Assumptions
 ● Multiple employees belong to a department of a hospital.
