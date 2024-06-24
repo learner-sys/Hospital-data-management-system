@@ -1,8 +1,4 @@
-# Hospital-data-management-system (BH's Hospital)
-
-This project implements Oracel APEX to create a DBMS, deploying the EER daigram, relational schema, and applying some SQL queries. BH Hospital's is an application that displays Bahrain's small organizations' hospitals, providing users with information about departments, employees, medical procedures, and directions. The application is designed to be 24/7, providing updated information on patient services, treatments, technologies, and community involvement. It also ensures that patients can access necessary information at any time, eliminating the need for contact. 
-
-#Requirements Details
+# Requirements Details
 
 BH hospital’s is an application that shows the users the hospitals in Bahrain that are owned by small organizations, you have to develop the database system with organization data requirements.
 
@@ -10,7 +6,7 @@ The users of the application should be able to reach:
 1- The specific hospital departments it contains.
 2- Names of all the employees (doctors, nurses, receptionists) who work in the hospital
 3- Provide the visitor with all information about the specific medical procedure
-4-Provide the visitor with a clear and obvious direction as to what action they should take next.
+4- Provide the visitor with a clear and obvious direction as to what action they should take next.
 
 Every hospital department has a unique Id, type, and location. Also, there is an employee with
 first name and last name, phone number, address, gender, and a unique id. EMPLOYEE further
